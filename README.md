@@ -3,6 +3,7 @@
 Static site. One folder per client packet, each a single self-contained HTML file.
 
 - `bennet/index.html` → https://clients.bloomdays.co/bennet/
+- `geiger/index.html` → https://clients.bloomdays.co/geiger/
 
 ## Setup, once
 1. Push this repo to GitHub (public — see note below).
